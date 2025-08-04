@@ -1,1 +1,2 @@
 # trinetra-ai
+index.html
