@@ -1,3 +1,4 @@
 # trinetra-ai
 index.html
-favicon.ico
+favicon
+
